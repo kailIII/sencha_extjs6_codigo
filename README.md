@@ -2,7 +2,7 @@
 
 #blog 
 
-    javascript.wordpress.com 
+    http://javascriptx.wordpress.com 
 
 #Lista de reproduccion en canal de youtube
 
