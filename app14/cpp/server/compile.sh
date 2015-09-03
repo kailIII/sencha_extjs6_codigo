@@ -1,0 +1,1 @@
+g++ server.cpp -o server_one -I /home/guest/extjs/app14/cpp/ptypes-2.1.1/include -L /usr/lib -L /home/guest/extjs/app14/cpp/ptypes-2.1.1/so -L /home/guest/extjs/app14/cpp/ptypes-2.1.1/lib -lpthread -lm -lptypes 

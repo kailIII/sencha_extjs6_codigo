@@ -1,0 +1,1 @@
+sencha -sd /home/guest/sencha/framework/ext-6.0.0/ generate app  app04 app04
